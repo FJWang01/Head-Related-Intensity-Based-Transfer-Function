@@ -54,5 +54,19 @@ Then, calculate the intensity by using the cross spectrum method.
 
 <img src = "https://github.com/FJWang01/Head-Related-Intensity-Based-Transfer-Function/assets/123141141/a797122b-90ee-4941-8ff0-f946d2097193" width = "500">
 
+## Using the dataset
+Averaged transfer functions between the loudspeaker and the pair of microphones are stored in
+
+x_axis_TFs.mat
+
+y_axis_TFs.mat
+
+z_axis_TFs.mat
+
+Run cal_x_axis_intensity_cpsd to calculate the active intensity in the x direction. 
+
+Run cal_y_axis_intensity_cpsd to calculate the active intensity in the x direction. 
+
+Run cal_z_axis_intensity_cpsd to calculate the active intensity in the x direction. 
 
 Due to the large size, raw impulse responses between the speakers and the microphone pairs can be requested by emailing the author at frank.wang324@gmail.com . 
