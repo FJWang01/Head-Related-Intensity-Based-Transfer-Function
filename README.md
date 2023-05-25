@@ -1,6 +1,6 @@
 # Head-Related-Intensity-Based-Transfer-Function
 
-This project measures the intensity vectors in three Cartesian directions in the vicinity of KEMAR's outer ears. The intensity vectors are measured by MEMS microphone pairs designed by researchers at the Australian National University.
+This project measures the intensity vectors in three Cartesian directions in the vicinity of KEMAR's outer ears. The intensity vectors are measured by MEMS microphone pairs designed by researchers at the Australian National University (ANU).
 
 ## Key Equipment
 
@@ -29,10 +29,15 @@ In the figure, the KEMAR is facing the loudspeaker and has 0 degrees body rotati
 The figure shows the placement of the MEMS microphone pairs and the definitions of the three Cartesian directions for each ear.
 
 Left ear - subfigures (a), (c) and (e).
+
 Right ear - subfigures (b), (d) and (f). 
 
 ![MEMS_mic_placements](https://github.com/FJWang01/Head-Related-Intensity-Based-Transfer-Function/assets/123141141/99369b70-00cb-4825-9935-6e691c883dae)
 
+### Measurement environment
+AASP Lab at the ANU. 
+
+![measure_environ](https://github.com/FJWang01/Head-Related-Intensity-Based-Transfer-Function/assets/123141141/7cebc3f7-46c0-4bcc-af12-4995c5536353)
 
 
 Due to the large size, raw impulse responses between the speakers and the microphone pairs can be requested by emailing the author at frank.wang324@gmail.com . 
