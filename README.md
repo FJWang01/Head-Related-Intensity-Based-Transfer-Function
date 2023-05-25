@@ -44,11 +44,11 @@ AASP Lab at the ANU. The loudspeaker in the red circle plays the sine sweep sign
 ## Processing of measurement data
 First, measure the impulse response between the loudspeaker and the pair of microphones. 
 
-Sampling frequency - 16 kHz. 
+* Sampling frequency - 16 kHz. 
 
-Original impulse response length - 89999 samples
+* Original impulse response length - 89999 samples
 
-Truncated impulse response length - 256 samples (index 4300 to index 4555 of the original impulse response)
+* Truncated impulse response length - 256 samples (index 4300 to index 4555 of the original impulse response)
 
 Next, transform the truncated impulse responses to the frequency domain to form the transfer functions. Average the transfer functions of five measurement runs. 
 
