@@ -46,9 +46,9 @@ First, measure the impulse response between the loudspeaker and the pair of micr
 
 * Sampling frequency - 16 kHz. 
 
-* Original impulse response length - 89999 samples
+* Original impulse response length - 89999 samples.
 
-* Truncated impulse response length - 256 samples (index 4300 to index 4555 of the original impulse response)
+* Truncated impulse response length - 256 samples (index 4300 to index 4555 of the original impulse response).
 
 Next, transform the truncated impulse responses to the frequency domain to form the transfer functions. Average the transfer functions of five measurement runs. 
 
@@ -84,9 +84,9 @@ mic_1 is the MEMS microphone further away from the USB port. mic_2 is the MEMS m
 Due to the large size, raw impulse responses between the speakers and the microphone pairs can be requested by emailing the author at frank.wang324@gmail.com . 
 
 ### Visualise the intensity
-Run cal_x_axis_intensity_cpsd to calculate the active intensity in the x direction. 
+Run cal_x_axis_intensity_cpsd.m to calculate the active intensity in the x direction. 
 
-Run cal_y_axis_intensity_cpsd to calculate the active intensity in the y direction. 
+Run cal_y_axis_intensity_cpsd.m to calculate the active intensity in the y direction. 
 
-Run cal_z_axis_intensity_cpsd to calculate the active intensity in the z direction. 
+Run cal_z_axis_intensity_cpsd.m to calculate the active intensity in the z direction. 
 
