@@ -91,11 +91,11 @@ The truncated impulse responses are of dimension 256-by-5-by-36. 256 is the leng
 
 mic_1 is the MEMS microphone further away from the USB port. mic_2 is the MEMS microphone next to the USB port.
 
-For instance, to obtain the second measurement run of the right ear truncated impulse response at mic_2 in the y direction when the body rotation angle is 260 degrees, first load y_axis_truncated_IRs.mat, then use 
+For instance, to obtain the second measurement run of the right ear truncated impulse response at mic_2 in the y direction when the body rotation angle is 260 degrees, first load y_axis_truncated_IRs.mat; next, use 
 ```
 right_x_mic_2_ir_mat(:, 2, 27)
 ```
-to extract the data. Note that the column index is 8 because index 1 corresponds to 0 degree body rotation angle. 
+to extract the data. Note that the column index is 27 because index 1 corresponds to 0 degree body rotation angle. 
 
 Due to the large size, raw impulse responses between the speakers and the microphone pairs can be requested by emailing the author at frank.wang324@gmail.com . 
 
