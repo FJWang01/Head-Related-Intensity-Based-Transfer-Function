@@ -2,6 +2,8 @@
 
 This project measures the intensity vectors in three Cartesian directions in the vicinity of KEMAR's outer ears. The intensity vectors are measured by MEMS microphone pairs designed by researchers at the Australian National University
 
+## Key Equipment
+
 KEMAR - Type 45 BA from GRAS Sound & Vibration.
 
 MEMS Microphone pair - Two ICS-43432 MEMS microphones spaced 1.5 cm apart. 
@@ -10,7 +12,7 @@ MEMS Microphone pair - Two ICS-43432 MEMS microphones spaced 1.5 cm apart.
 
 Loudspeaker - Tannoy system 600 nearfield monitor. 
 
-Measurement setup 
+## Measurement setup 
 
 The intensity is measured at different body rotation angles. 
 
