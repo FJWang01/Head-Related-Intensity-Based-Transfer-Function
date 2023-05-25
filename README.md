@@ -95,7 +95,7 @@ For instance, to obtain the second measurement run of the right ear truncated im
 ```
 right_x_mic_2_ir_mat(:, 2, 27)
 ```
-to extract the data. Note that the column index is 27 because index 1 corresponds to 0 degree body rotation angle. 
+to extract the data. Note that the page index is 27 because index 1 corresponds to 0 degree body rotation angle. 
 
 Due to the large size, raw impulse responses between the speakers and the microphone pairs can be requested by emailing the author at frank.wang324@gmail.com . 
 
