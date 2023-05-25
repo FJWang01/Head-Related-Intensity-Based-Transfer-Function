@@ -76,7 +76,7 @@ For instance, to obtain the left ear averaged transfer function at mic_1 in the 
 ```
 left_x_mic_1_ave_TF(:, 7) 
 ```
-to extract the data
+to extract the data.
 
 ### The truncated impulse responses
 The truncated impulse responses are stored in
