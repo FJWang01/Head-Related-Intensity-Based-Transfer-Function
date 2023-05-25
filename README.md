@@ -93,7 +93,7 @@ mic_1 is the MEMS microphone further away from the USB port. mic_2 is the MEMS m
 
 For instance, to obtain the second measurement run of the right ear truncated impulse response at mic_2 in the y direction when the body rotation angle is 260 degrees, first load y_axis_truncated_IRs.mat; next, use 
 ```
-right_x_mic_2_ir_mat(:, 2, 27)
+right_y_mic_2_ir_mat(:, 2, 27)
 ```
 to extract the data. Note that the page index is 27 because index 1 corresponds to 0 degree body rotation angle. 
 
