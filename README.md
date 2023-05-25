@@ -68,7 +68,9 @@ y_axis_TFs.mat
 
 z_axis_TFs.mat
 
-The averaged transfer functions are of dimension 1024-by-36. 1024 is the number of frequency bins corresponding to f_vec, 36 is the number of body rotation angles from 0 degrees to 350 degrees in 10-degree intervals. 
+The averaged transfer functions are of dimension 1024-by-36. 1024 is the number of frequency bins corresponding to f_vec, 36 is the number of body rotation angles from 0 degrees to 350 degrees in 10-degree intervals. For instance, to obtain the left ear averaged transfer function at mic_1 in the x direction when the body rotation angle is 70 degrees, use
+
+left_x_mic_1_ave_TF(:, 7)
 
 ### The truncated impulse responses
 The truncated impulse responses are stored in
