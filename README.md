@@ -65,8 +65,8 @@ z_axis_TFs.mat
 
 Run cal_x_axis_intensity_cpsd to calculate the active intensity in the x direction. 
 
-Run cal_y_axis_intensity_cpsd to calculate the active intensity in the x direction. 
+Run cal_y_axis_intensity_cpsd to calculate the active intensity in the y direction. 
 
-Run cal_z_axis_intensity_cpsd to calculate the active intensity in the x direction. 
+Run cal_z_axis_intensity_cpsd to calculate the active intensity in the z direction. 
 
 Due to the large size, raw impulse responses between the speakers and the microphone pairs can be requested by emailing the author at frank.wang324@gmail.com . 
