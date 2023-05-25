@@ -8,7 +8,7 @@ KEMAR - Type 45 BA from GRAS Sound & Vibration.
 
 MEMS Microphone pair - Two ICS-43432 MEMS microphones spaced 1.5 cm apart. 
 
-<img src="https://github.com/FJWang01/Head-Related-Intensity-Based-Transfer-Function/assets/123141141/0bedb1cb-8495-4c09-9b5a-8f4769235264" width="200">
+<img src="https://github.com/FJWang01/Head-Related-Intensity-Based-Transfer-Function/assets/123141141/0bedb1cb-8495-4c09-9b5a-8f4769235264" width="300">
 
 Loudspeaker - Tannoy system 600 nearfield monitor. 
 
