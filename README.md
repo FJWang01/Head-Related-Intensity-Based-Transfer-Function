@@ -55,7 +55,7 @@ Then, calculate the active intensity vector by using the cross spectrum method.
 <img src = "https://github.com/FJWang01/Head-Related-Intensity-Based-Transfer-Function/assets/123141141/a797122b-90ee-4941-8ff0-f946d2097193" width = "500">
 
 ## Using the dataset
-Averaged transfer functions between the loudspeaker and the pair of microphones are stored in
+The averaged transfer functions between the loudspeaker and the pair of microphones are stored in
 
 x_axis_TFs.mat
 
@@ -63,15 +63,17 @@ y_axis_TFs.mat
 
 z_axis_TFs.mat
 
-The truncated impulse responses are stored in
+The averaged transfer functions are of dimension 1024 by 36. 1024 is the number of frequency bins corresponding to f_vec, 36 is the number of body rotation angles from 0 degrees to 350 degrees in 10-degree intervals. 
 
+The truncated impulse responses are stored in
+5
 x_axis_truncated_IRs.mat
 
 y_axis_truncated_IRs.mat
 
 z_axis_truncated_IRs.mat
 
-The truncated impulse responses are of dimension 256 by 5 by 36. 256 is the length of the truncated impulse response, 5 is the number of measurement runs, and 36 is the number of body rotation angles. 
+The truncated impulse responses are of dimension 256 by 5 by 36. 256 is the length of the truncated impulse response, 5 is the number of measurement runs, and 36 is the number of body rotation angles from 0 degrees to 350 degrees in 10-degree intervals. . 
 
 Run cal_x_axis_intensity_cpsd to calculate the active intensity in the x direction. 
 
