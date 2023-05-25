@@ -35,9 +35,9 @@ Right ear - subfigures (b), (d) and (f).
 ![MEMS_mic_placements](https://github.com/FJWang01/Head-Related-Intensity-Based-Transfer-Function/assets/123141141/99369b70-00cb-4825-9935-6e691c883dae)
 
 ### Measurement environment
-AASP Lab at the ANU. 
+AASP Lab at the ANU. The loudspeaker in the red circle plays the sine sweep signal. The single axis rotaty table in the blue rectangle controls the body rotation angle of the KEMAR. 
 
-![measure_environ](https://github.com/FJWang01/Head-Related-Intensity-Based-Transfer-Function/assets/123141141/7cebc3f7-46c0-4bcc-af12-4995c5536353)
+<img src = "https://github.com/FJWang01/Head-Related-Intensity-Based-Transfer-Function/assets/123141141/7cebc3f7-46c0-4bcc-af12-4995c5536353" width = "500">
 
 
 Due to the large size, raw impulse responses between the speakers and the microphone pairs can be requested by emailing the author at frank.wang324@gmail.com . 
