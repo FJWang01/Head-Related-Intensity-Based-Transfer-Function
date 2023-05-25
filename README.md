@@ -52,7 +52,7 @@ Next, transform the truncated impulse responses to the frequency domain to form 
 
 Then, calculate the intensity by using the cross spectrum method. 
 
-<img src = "https://github.com/FJWang01/Head-Related-Intensity-Based-Transfer-Function/assets/123141141/a797122b-90ee-4941-8ff0-f946d2097193" width = "200">
+<img src = "https://github.com/FJWang01/Head-Related-Intensity-Based-Transfer-Function/assets/123141141/a797122b-90ee-4941-8ff0-f946d2097193" width = "500">
 
 
 Due to the large size, raw impulse responses between the speakers and the microphone pairs can be requested by emailing the author at frank.wang324@gmail.com . 
