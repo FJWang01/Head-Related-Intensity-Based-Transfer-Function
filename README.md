@@ -66,14 +66,16 @@ z_axis_TFs.mat
 The averaged transfer functions are of dimension 1024 by 36. 1024 is the number of frequency bins corresponding to f_vec, 36 is the number of body rotation angles from 0 degrees to 350 degrees in 10-degree intervals. 
 
 The truncated impulse responses are stored in
-5
+
 x_axis_truncated_IRs.mat
 
 y_axis_truncated_IRs.mat
 
 z_axis_truncated_IRs.mat
 
-The truncated impulse responses are of dimension 256 by 5 by 36. 256 is the length of the truncated impulse response, 5 is the number of measurement runs, and 36 is the number of body rotation angles from 0 degrees to 350 degrees in 10-degree intervals. . 
+The truncated impulse responses are of dimension 256 by 5 by 36. 256 is the length of the truncated impulse response, 5 is the number of measurement runs, and 36 is the number of body rotation angles from 0 degrees to 350 degrees in 10-degree intervals. 
+
+mic_1 is the MEMS microphone further away from the USB port. mic_2 is the MEMS microphone next to the USB port
 
 Run cal_x_axis_intensity_cpsd to calculate the active intensity in the x direction. 
 
