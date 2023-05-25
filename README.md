@@ -12,6 +12,8 @@ MEMS Microphone pair - Two ICS-43432 MEMS microphones spaced 1.5 cm apart.
 
 Loudspeaker - Tannoy system 600 nearfield monitor. 
 
+Single axis rotary table driven by a servo motor. 
+
 ## Measurement setup 
 
 The intensity is measured at different body rotation angles. 
