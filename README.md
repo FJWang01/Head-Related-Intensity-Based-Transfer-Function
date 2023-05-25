@@ -63,6 +63,16 @@ y_axis_TFs.mat
 
 z_axis_TFs.mat
 
+The truncated impulse responses are stored in
+
+x_axis_truncated_IRs.mat
+
+y_axis_truncated_IRs.mat
+
+z_axis_truncated_IRs.mat
+
+The truncated impulse responses are of dimension 256 by 5 by 36. 256 is the length of the truncated impulse response, 5 is the number of measurement runs, and 36 is the number of body rotation angles. 
+
 Run cal_x_axis_intensity_cpsd to calculate the active intensity in the x direction. 
 
 Run cal_y_axis_intensity_cpsd to calculate the active intensity in the y direction. 
