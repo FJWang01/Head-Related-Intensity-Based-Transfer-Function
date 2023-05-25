@@ -26,5 +26,10 @@ In the figure, the KEMAR is facing the loudspeaker and has 0 degrees body rotati
 
 ### Placement of MEMS microphone pairs
 
+The figure shows the placement of the MEMS microphone pairs and the definitions of the three Cartesian directions for each ear.
+
+![MEMS_mic_placements](https://github.com/FJWang01/Head-Related-Intensity-Based-Transfer-Function/assets/123141141/99369b70-00cb-4825-9935-6e691c883dae)
+
+
 
 Due to the large size, raw impulse responses between the speakers and the microphone pairs can be requested by emailing the author at frank.wang324@gmail.com . 
