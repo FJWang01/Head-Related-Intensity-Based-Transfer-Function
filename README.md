@@ -16,13 +16,15 @@ Single axis rotary table driven by a servo motor.
 
 ## Measurement setup 
 
+### KEMAR's body rotation angle
+
 The intensity is measured at different body rotation angles. 
 
 In the figure, the KEMAR is facing the loudspeaker and has 0 degrees body rotation angle. The body rotation angle is sampled in 10-degree interval and the rotation direction is shown by the red arrow. 
 
 <img src = "https://github.com/FJWang01/Head-Related-Intensity-Based-Transfer-Function/assets/123141141/fadd39e1-1503-4e25-b671-594796c9b15e" width = "500">
 
-
+### Placement of MEMS microphone pairs
 
 
 Due to the large size, raw impulse responses between the speakers and the microphone pairs can be requested by emailing the author at frank.wang324@gmail.com . 
