@@ -20,7 +20,7 @@ The intensity is measured at different body rotation angles.
 
 In the figure, the KEMAR is facing the loudspeaker and has 0 degrees body rotation angle. The body rotation angle is sampled in 10-degree interval and the rotation direction is shown by the red arrow. 
 
-![KEMAR_body_rotation](https://github.com/FJWang01/Head-Related-Intensity-Based-Transfer-Function/assets/123141141/fadd39e1-1503-4e25-b671-594796c9b15e)
+<img src = "https://github.com/FJWang01/Head-Related-Intensity-Based-Transfer-Function/assets/123141141/fadd39e1-1503-4e25-b671-594796c9b15e" width = "500")
 
 
 
