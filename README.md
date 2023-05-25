@@ -73,8 +73,10 @@ mic_1 is the MEMS microphone further away from the USB port. mic_2 is the MEMS m
 The averaged transfer functions are of dimension 1024-by-36. 1024 is the number of frequency bins corresponding to f_vec, 36 is the number of body rotation angles from 0 degrees to 350 degrees in 10-degree intervals. 
 
 For instance, to obtain the left ear averaged transfer function at mic_1 in the x direction when the body rotation angle is 70 degrees, first load x_axis_TFs.mat; next, use
-
-left_x_mic_1_ave_TF(:, 7)
+```
+left_x_mic_1_ave_TF(:, 7) 
+```
+to extract the data
 
 ### The truncated impulse responses
 The truncated impulse responses are stored in
