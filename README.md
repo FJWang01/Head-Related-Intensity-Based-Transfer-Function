@@ -52,7 +52,7 @@ Truncated impulse response length - 256 samples (index 4300 to index 4555 of the
 
 Next, transform the truncated impulse responses to the frequency domain to form the transfer functions. Average the transfer functions of five measurement runs. 
 
-Then, calculate the active intensity vector by using the cross spectrum method. 
+Then, calculate the active intensity vector by using the cross spectrum method. For instance, in x direction
 
 <img src = "https://github.com/FJWang01/Head-Related-Intensity-Based-Transfer-Function/assets/123141141/a797122b-90ee-4941-8ff0-f946d2097193" width = "500">
 
